@@ -17,7 +17,7 @@ int main(void)
 
      float num1; 
      float num2;
-     char operator;
+        char operator;
 
      printf("Enter first number: ");
      scanf("%f", &num1);
